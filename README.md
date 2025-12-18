@@ -1,4 +1,4 @@
-# 💫 About Me:
+#  About Me:
 i completed my diploma in computer science<br>i am new here <br>now i wanna contribute to open source .<br>i am also looking for mentor or someone who can guide me <br>i know java,c,python,mysql,html,css
 
 
@@ -15,4 +15,3 @@ i completed my diploma in computer science<br>i am new here <br>now i wanna cont
 ---
 [![](https://visitcount.itsvg.in/api?id=yash-kain&icon=0&color=0)](https://visitcount.itsvg.in)
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
